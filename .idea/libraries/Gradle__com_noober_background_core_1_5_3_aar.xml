@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.noober.background:core:1.5.3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-core-1.5.3.aar/7eaaf5f1b3e36e2607ff555181927ac6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-core-1.5.3.aar/7eaaf5f1b3e36e2607ff555181927ac6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.noober.background/core/1.5.3/c4aa803f55cdc73b4c61439e7cef941dfedf6f17/core-1.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

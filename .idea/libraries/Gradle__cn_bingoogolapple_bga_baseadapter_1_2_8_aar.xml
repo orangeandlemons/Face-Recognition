@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.bingoogolapple:bga-baseadapter:1.2.8@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-bga-baseadapter-1.2.8.aar/0bfec182dc0a1569ac97fff52752d876/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-bga-baseadapter-1.2.8.aar/0bfec182dc0a1569ac97fff52752d876/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.bingoogolapple/bga-baseadapter/1.2.8/20892fc2e877f7ae116ce554c61d6dfe5e570df8/bga-baseadapter-1.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

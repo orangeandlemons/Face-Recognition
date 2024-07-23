@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mylhyl:Android-CircleDialog:5.3.8@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Android-CircleDialog-5.3.8.aar/33a9a7604dddd368dffc3294c90f8a43/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Android-CircleDialog-5.3.8.aar/33a9a7604dddd368dffc3294c90f8a43/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mylhyl/Android-CircleDialog/5.3.8/64d523c501a7ff7a43d7d6f5b6921543e101c168/Android-CircleDialog-5.3.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

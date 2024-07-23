@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ihsg:PatternLocker:2.5.6@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PatternLocker-2.5.6.aar/5116a1fe02b3a7f9fef47d3de44585c4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PatternLocker-2.5.6.aar/5116a1fe02b3a7f9fef47d3de44585c4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ihsg/PatternLocker/2.5.6/8cb4402a3abc5e55be6befa1690e36f8645c96ba/PatternLocker-2.5.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

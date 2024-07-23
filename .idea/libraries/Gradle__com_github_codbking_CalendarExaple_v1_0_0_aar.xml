@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.codbking:CalendarExaple:v1.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-CalendarExaple-v1.0.0.aar/7bc8607088f397a6936ae8cdedaa5318/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-CalendarExaple-v1.0.0.aar/7bc8607088f397a6936ae8cdedaa5318/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.codbking/CalendarExaple/v1.0.0/3555729ad3164c84ba70fd136c9f6a5742ededfc/CalendarExaple-v1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

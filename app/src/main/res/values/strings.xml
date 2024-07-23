@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+    <string-array name="spinner_checkin">
+        <item>百度地图定位签到</item>
+        <item>人脸识别定位签到</item>
+        <item>手势识别定位签到</item>
+    </string-array>
+    <string-array name="spinner_result">
+        <item>缺 勤</item>
+        <item>请 假</item>
+        <item>成 功</item>
+    </string-array>
+</resources>

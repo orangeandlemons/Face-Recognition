@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yinglan.alphatabs:library:1.0.8@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.0.8.aar/1e781b0add4ed0b3b34afef06c6b7a30/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.0.8.aar/1e781b0add4ed0b3b34afef06c6b7a30/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yinglan.alphatabs/library/1.0.8/94335ce34f1bf8986faccb71bce93fd1f7804a0/library-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

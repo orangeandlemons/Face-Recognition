@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gyf.immersionbar:immersionbar:2.3.3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-immersionbar-2.3.3.aar/0db36b5bf23e5d64b2082aa932566526/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-immersionbar-2.3.3.aar/0db36b5bf23e5d64b2082aa932566526/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gyf.immersionbar/immersionbar/2.3.3/c83b06a874d643571084ee0e09e576d239903ab8/immersionbar-2.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

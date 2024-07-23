@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: G./Project-JAVA/bishe/face-recognition-master/app/libs/BaiduLBS_Android.jar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/BaiduLBS_Android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

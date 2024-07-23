@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.loopj.android:android-async-http:1.4.11@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-async-http-1.4.11.aar/2ea5b6599d92c11f012f92e62a988d44/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.11/8455d7c8590eb568420cfbf852e3e738426238b7/android-async-http-1.4.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

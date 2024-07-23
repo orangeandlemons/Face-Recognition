@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.teacher.TeacherAttendDetail"
+    >
+
+    <include layout="@layout/main_title_bar"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="筛选方式："
+                android:textColor="@color/black"
+                android:textSize="@dimen/fontSize_2"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/attend_type_all"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="全 部"
+                    android:textColor="@color/blue"
+                    android:background="@color/white"
+                    android:textSize="@dimen/fontSize_1"/>
+
+                <Button
+                    android:id="@+id/attend_type_success"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="成 功"
+                    android:textColor="@color/green"
+                    android:background="@null"
+                    android:textSize="@dimen/fontSize_1"/>
+
+                <Button
+                    android:id="@+id/attend_type_failure"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="失 败"
+                    android:textColor="@color/red"
+                    android:background="@null"
+                    android:textSize="@dimen/fontSize_1"/>
+
+                <Button
+                    android:id="@+id/attend_type_absent"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="缺 勤"
+                    android:textColor="@color/gray0"
+                    android:background="@null"
+                    android:textSize="@dimen/fontSize_1"/>
+
+                <Button
+                    android:id="@+id/attend_type_leave"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="请 假"
+                    android:textColor="@color/yellow"
+                    android:background="@null"
+                    android:layout_marginEnd="10dp"
+                    android:textSize="@dimen/fontSize_1"/>
+
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_attend_list"
+                android:overScrollMode="never"
+                android:background="@drawable/style_ellipse_long_info"
+                android:padding="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"/>
+
+            <include layout="@layout/template_null_prompt"/>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

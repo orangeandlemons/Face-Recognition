@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.codbking:PickTime:v1.0.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PickTime-v1.0.1.aar/856d1c9d0c5be30d404eb33f9d448161/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PickTime-v1.0.1.aar/856d1c9d0c5be30d404eb33f9d448161/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.codbking/PickTime/v1.0.1/a8b1fa61230743488644a6c71a6e55eaaaf1b5cf/PickTime-v1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
